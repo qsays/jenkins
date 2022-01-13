@@ -40,7 +40,7 @@ THE SOFTWARE.
 
 
   <properties>
-    <guavaVersion>11.0.1</guavaVersion>
+    <guavaVersion>30.0-android</guavaVersion>
     <slf4jVersion>1.7.26</slf4jVersion>
   </properties>
 
